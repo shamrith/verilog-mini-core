@@ -8,7 +8,7 @@ This project implements a minimal 8-bit processor core in Verilog. It includes:
 
 ---
 
-## 🧠 Features
+##  Features
 
 - 8-bit wide registers and memory
 - ALU supports: 
@@ -21,7 +21,7 @@ This project implements a minimal 8-bit processor core in Verilog. It includes:
 
 ---
 
-## 🧪 How to Simulate
+##  How to Simulate
 
 1. **Install dependencies (Linux):**
    ```bash
@@ -41,7 +41,7 @@ This project implements a minimal 8-bit processor core in Verilog. It includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 mini_core/
@@ -56,7 +56,7 @@ mini_core/
 
 ---
 
-## ✅ TODO / Improvements
+## TODO / Improvements
 
 - Add external control interface for ALU inputs
 - Add instruction decoder and program memory
